@@ -25,7 +25,7 @@ from mum.utils import transform_image
 
 model = mum_vitl16(pretrained=True).cuda().eval()
 images = transform_image("assets/wma1.jpg").unsqueeze(0).cuda()
-feats = model.forward_features(images)['x_norm_patchtokens'].shape # B, P, 1024
+feats = model.forward_features(images)['x_norm_patchtokens'] # B, P, 1024
 ```
 
 ## Encoder + Decoder
