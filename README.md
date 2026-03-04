@@ -10,6 +10,7 @@
 
 ## Updates
 
+- [March 4, 2026] Accepted to CVPR26. 
 - [November 22, 2025] Initial release of inference code. 
 
 ## Overview
