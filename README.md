@@ -92,7 +92,7 @@ Our code is largely inspired by [VGGT](https://github.com/facebookresearch/vggt)
 ## BibTeX
 
 If you find our work useful, please consider citing our paper!
-```
+```bibtex
 @inproceedings{nordström2025mum,
   title={MuM: Multi-View Masked Image Modeling for 3D Vision}, 
   author={David Nordström and Johan Edstedt and Fredrik Kahl and Georg Bökman},
