@@ -93,13 +93,10 @@ Our code is largely inspired by [VGGT](https://github.com/facebookresearch/vggt)
 
 If you find our work useful, please consider citing our paper!
 ```
-@misc{nordström2025mum,
-      title={MuM: Multi-View Masked Image Modeling for 3D Vision}, 
-      author={David Nordström and Johan Edstedt and Fredrik Kahl and Georg Bökman},
-      year={2025},
-      eprint={2511.17309},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.17309}, 
+@inproceedings{nordström2025mum,
+  title={MuM: Multi-View Masked Image Modeling for 3D Vision}, 
+  author={David Nordström and Johan Edstedt and Fredrik Kahl and Georg Bökman},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
 }
 ```
