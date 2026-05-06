@@ -55,7 +55,7 @@ This should give something like:
 
 ## Pretrain
 
-[COMING]: We aim to release this soon.
+See [train-dev](https://github.com/davnords/MuM/tree/train-dev) branch. Code will be merged after further cleanup.
 
 ## Evaluation
 
